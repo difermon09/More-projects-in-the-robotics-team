@@ -1,16 +1,8 @@
-# Other Projects
+# More projects in the robotics team
 
 This document lists other projects I have worked on as a member of my university robotics team. 
 
-## 1) ROS2 LIDAR package — investigation & documentation
-
-What I did:
-
-- Searched for the ROS2 package supplied by the LiDAR manufacturer.
-- Investigated how to use it.
-- Wrote a README explaining how to launch the driver and use the published data, enabling teammates to integrate the LiDAR output into their modules.
-
-## 2) ROS2 camera PointCloud2 pipeline — package adaptation, transforms & URDF integration
+## 1) ROS2 camera PointCloud2 pipeline — package adaptation, transforms & URDF integration
 
 What I did:
 
@@ -26,13 +18,21 @@ What I did:
 
 - Added the camera model to the robot’s URDF, specifying its real mounting pose on the robot.
 
+## 2) ROS2 LIDAR package — investigation & documentation
+
+What I did:
+
+- Searched for the ROS2 package supplied by the LiDAR manufacturer.
+- Investigated how to use it.
+- Wrote a README explaining how to launch the driver and use the published data, enabling teammates to integrate the LiDAR output into their modules.
+  
 ## 3) Team public pages via Jupyter Notebooks + GitHub Pages
 
 A secondary task for the team is to use Jupyter Notebooks together with GitHub Pages to publish documentation and project information. This workflow makes technical content publicly accessible without requiring manual repository setup or repeated explanations.
 
 ## 4) Full robot simulation — URDF, RViz2 and Gazebo
 
-I am currently working on the full simulation of the robot, which includes:
+What I did:
 
 - Creating the robot’s URDF (robot_description).
 
