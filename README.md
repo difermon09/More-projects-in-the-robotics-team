@@ -29,23 +29,3 @@ What I did:
 ## 3) Team public pages via Jupyter Notebooks + GitHub Pages
 
 A secondary task for the team is to use Jupyter Notebooks together with GitHub Pages to publish documentation and project information. This workflow makes technical content publicly accessible without requiring manual repository setup or repeated explanations.
-
-## 4) Full robot simulation — URDF, RViz2 and Gazebo
-
-What I did:
-
-- Creating the robot’s URDF (robot_description).
-
-- Setting up RViz2 for visualization and frame validation.
-
-- Developing the complete Gazebo simulation.
-
-- Integrating the following components into the simulated robot:
-
-    - `ros2_control` for mecanum wheel controllers
-
-    - LiDAR
-
-    - IMU
-
-    - Odometry
